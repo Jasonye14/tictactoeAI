@@ -2,7 +2,7 @@
 
 A simple and fun Tic Tac Toe game that allows you to play against an AI opponent. Built with HTML, CSS, and JavaScript, this project showcases a classic game with a clean and intuitive design.
 
-(tictactoe.png)  
+![Screenshot of Tic Tac Toe](tictactoe.png)  
 Live Site Demo - https://frolicking-tulumba-136fcc.netlify.app/
 
 ## How to Play
