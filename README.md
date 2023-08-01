@@ -16,7 +16,6 @@ Live Site Demo - https://frolicking-tulumba-136fcc.netlify.app/
 
 - Player versus AI gameplay.
 - Interactive gameboard.
-- Eye-catching design with responsive actions.
 - Implementing a simple minimax algorithm for AI.
 
 ## How to Run Locally
